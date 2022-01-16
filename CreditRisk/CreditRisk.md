@@ -32,3 +32,13 @@ https://corporatefinanceinstitute.com/resources/knowledge/credit/credit-risk-ana
 - When a country freezes foreign currency payments obligations, resulting in a default on its obligations.
   - political instability
   - macroeconomic performance
+
+# Risk Modelling Factors
+## Probability of Default (POD)
+Likelihood of default on loan obligations.
+- For individual borrowers
+  - Credit scor
+  - Debt-to-income ratio.C
+- Credit rating agencies -> POD for corporate borrowers. 
+- Risk is partly managed by pledging collateral against the loan
+
