@@ -3,19 +3,19 @@ https://corporatefinanceinstitute.com/resources/knowledge/credit/credit-risk-ana
 
 - Borrower fails to meet their debt obligations. 
 - Probability lender will not receive
-  - principal
-  - interest payments
+  - Principal
+  - Interest payments
 
 # Lender
 - Disrupt its cash flows
-- increase collection costs (debt collection agency).
+- Increase collection costs (debt collection agency).
 - The loss may be partial or complete
 
 # Interest
 - rate charged on a loan serves as the lender’s reward for accepting to bear credit risk.
 - Lower rate: 
-  - a steady income
-  - a good credit history
+  - Steady income
+  - Good credit history
 
 # Types of Credit Risk
 ## Credit default risk
@@ -42,3 +42,11 @@ Likelihood of default on loan obligations.
 - Credit rating agencies -> POD for corporate borrowers. 
 - Risk is partly managed by pledging collateral against the loan
 
+## Loss given default (LGD)
+- Amount of loss that a lender will suffer in case a borrower defaults on the loan.
+- Lenders consider an entire portfolio of loans to determine the total exposure to loss.
+
+## Exposure at Default (EAD)
+- Amount of loss exposure to at any particular time
+- Indicator of the risk appetite of the lender.
+- Calculated by multiplying each loan obligation by a specific percentage that is adjusted based on the particulars of the loan.
