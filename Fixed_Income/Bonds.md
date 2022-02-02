@@ -39,4 +39,16 @@ https://www.raymondjames.com/wealth-management/advice-products-and-services/inve
    - Issuers with lower credit ratings generally offer investors higher yields to compensate for the additional credit risk. 
    - Bonds with comparable ratings may trade at different yields, which may further indicate the market’s perception of risk.
    
+## Price/Yield Relationship
+
+- Yield = bond’s coupon rate relative to its current market price.
+  - IR rise => Price of an existing bond falls => yield rise
+
+The two most frequently referenced yields are:
+### Yield-to-maturity (YTM)
+- Generally, YTM for a new-issue security is equal to its coupon rate.
+
+### Yield-to-call (YTC), or yield-to-worst case (YWC)
+- Call features and is purchased at a premium.
+- The prices of callable bonds will not rise as much as those of non-callable securities because investors are not willing to pay more due to the increased chance of a call.
 
