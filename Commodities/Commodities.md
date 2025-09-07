@@ -16,3 +16,20 @@
 | Calendar Spread Options   | Options on price spread between two contracts.                              | Exchange / OTC        | Y                 | Option on Dec/Jan WTI spread                 | Dec vs Jan futures, 1,000 barrels         |
 | Asian Options             | Option with payoff based on average price.                                  | OTC                   | Y                 | Asian option on Jet Fuel                     | Avg of monthly prices, Notional $500k     |
 | Weather Derivatives       | Hedge against weather variables (e.g. HDD, rainfall).                       | OTC                   | Y                 | Heating Degree Day (HDD) swap                | $10,000 per HDD above threshold in NY     |
+
+## Commodity Option pricing
+Option Price = Intrinsic Value + Time Value
+
+## Key Inputs Into Option Pricing
+
+| Input                | Description                                                              | Effect on Option Price                  |
+|----------------------|--------------------------------------------------------------------------|------------------------------------------|
+| **Underlying Price** | Current market price of the commodity or asset                           | Call ↑ with asset ↑, Put ↑ with asset ↓  |
+| **Strike Price**     | Agreed price to buy/sell the asset                                       | Affects intrinsic value                  |
+| **Time to Expiry**   | Time remaining until the option expires                                  | More time = higher premium               |
+| **Volatility**       | Expected price fluctuation of the underlying asset                       | More volatility = higher premium         |
+| **Risk-Free Rate**   | Interest rate used to discount future cash flows                         | Small impact, mostly on long-dated options |
+| **Dividends/Yield**  | Expected payouts from the asset (e.g., storage costs, carry costs)       | Affects value, mostly in equity/commodities |
+| **Option Type**      | Whether it's a Call or Put                                               | Affects how price movement impacts value |
+| **Settlement Type**  | Physical or cash settlement                                               | Operational effect, not price itself     |
+
